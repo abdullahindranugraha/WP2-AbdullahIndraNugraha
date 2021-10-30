@@ -1,0 +1,30 @@
+body{
+    background: #cc9c62;
+}
+.container{
+    background:white;
+}
+.navbar{
+    background: green;
+}
+.navbar-brand{
+    margin : auto;
+}
+span{
+    color : white;
+    font-family:comic sans ms;
+}
+.form-group{
+    line-height:2.5em;
+    margin-top : 10px;
+    margin-bottom: 40px;
+}
+.btn{
+    margin : 5px;
+    float:right;
+}
+
+.pesan{
+    color: red;
+    font-style: italic;
+}
